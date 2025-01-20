@@ -1,9 +1,9 @@
-#Al-Burraq Online E-commerce Store 
+# Al-Burraq Online E-commerce Store 
 
 This website is designed by Ahmed Rao and His team 
 student of Army Public College Saddar
 
-Technology stacks used in developing website are:
+## Technology stacks used in developing website are:
 - Html5
 - CSS3
 - JavaScript
@@ -12,4 +12,4 @@ Technology stacks used in developing website are:
 - SCSS
 - Fonts are Downloaded from Fonts Awesome
 
-##Website live Link: https://alburaqstore.netlify.app/
+## Website live Link: https://alburaqstore.netlify.app/
