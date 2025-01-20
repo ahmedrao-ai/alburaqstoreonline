@@ -1,15 +1,19 @@
-# Al-Burraq Online E-commerce Store 
+# Al-Burraq Online E-commerce Store  
 
-This website is designed by Ahmed Rao and His team 
-student of Army Public College Saddar
+A modern and fully responsive e-commerce website designed to provide an exceptional user experience.  
 
-## Technology stacks used in developing website are:
-- Html5
-- CSS3
-- JavaScript
-- Bootstrap
-- Jequery
-- SCSS
-- Fonts are Downloaded from Fonts Awesome
+## Developed By:  
+Ahmed Rao and Team  
+Students of Army Public College, Saddar  
 
-## Website live Link: https://alburaqstore.netlify.app/
+## Technology Stacks:  
+- HTML5  
+- CSS3  
+- JavaScript  
+- Bootstrap  
+- jQuery  
+- SCSS  
+- Fonts from Font Awesome  
+
+## Live Website:  
+[Al-Burraq Store](https://alburaqstore.netlify.app/)  
